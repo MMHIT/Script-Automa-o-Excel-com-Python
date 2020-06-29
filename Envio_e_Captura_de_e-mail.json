@@ -1,0 +1,67 @@
+{
+    "user": {
+        "username": "",
+        "password": ""
+    },
+    "email": {
+        "destinatarios_email": [
+            ""
+        ],
+        "destinatarios_email_cc": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "destinatarios_email_cco": [
+           
+        ],
+        "assunto": "",
+        "mensagem": "",
+        "assinatura": "",
+        "smtp": "smtp"
+    },
+
+    "email_2": {
+        "destinatarios_email": [
+            ""
+        ],
+        "destinatarios_email_cc": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "destinatarios_email_cco": [
+           
+        ],
+        "assunto": "",
+        "mensagem": "",
+        "assinatura": "",
+        "smtp": "smtp"
+    },
+
+    "emai_envio": {
+        "destinatarios_email": [
+            ""
+        ],
+        "destinatarios_email_cc": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "destinatarios_email_cco":[
+            
+        ],
+
+        "assunto": "",
+        "mensagem": "",
+        "assinatura": "",
+        "smtp": "smtp"
+    }
+}
