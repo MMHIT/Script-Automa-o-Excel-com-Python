@@ -1,67 +1,67 @@
 {
     "user": {
-        "username": "",
-        "password": ""
+        "username": "amdesenv@gmail.com",
+        "password": "des414450@"
     },
     "email": {
         "destinatarios_email": [
-            ""
+            "leoni.cesar@sicoobgoiania.com.br"
         ],
         "destinatarios_email_cc": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "produtos@sicoobgoiania.com.br",
+            "patricia.silva@sicoobgoiania.com.br",
+            "alexandre@americasaude.com.br",
+            "adriano@sicoobgoiania.com.br",
+            "rogger@ameplanosaude.com.br",
+            "cobrancaescritural@americasaude.com.br"
         ],
         "destinatarios_email_cco": [
            
         ],
-        "assunto": "",
-        "mensagem": "",
-        "assinatura": "",
+        "assunto": "Relação das entrada de Titulos - AMERICA",
+        "mensagem": "Prezados(as),\n Por favor, encaminhar relação de entrada dos títulos dias 14/06/2020 até 16/06/2020, ref. as duas contas, 3298 e 15423. No aguardo... \n",
+        "assinatura": "att,\n Paulo Victor\n Desenvolvedor\n Desenvolvimento e Integração de Sistemas - Grupo América\n  +55 62 998504748",
         "smtp": "smtp"
     },
 
     "email_2": {
         "destinatarios_email": [
-            ""
+            "leoni.cesar@sicoobgoiania.com.br"
         ],
         "destinatarios_email_cc": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "produtos@sicoobgoiania.com.br",
+            "patricia.silva@sicoobgoiania.com.br",
+            "alexandre@americasaude.com.br",
+            "adriano@sicoobgoiania.com.br",
+            "rogger@ameplanosaude.com.br",
+            "cobrancaescritural@americasaude.com.br"
         ],
         "destinatarios_email_cco": [
            
         ],
-        "assunto": "",
-        "mensagem": "",
-        "assinatura": "",
+        "assunto": "Relação das liquidações de Titulos - AMERICA",
+        "mensagem": "Prezados(as),\n Por favor, encaminhar relação de todos os títulos somente liquidados dos dias 13/05/2020 até 15/06/2020, ref. as contas, 3298 e 15423. \n Favor  não incluir baixa por decurso de prazo no arquivo. No aguardo... \n",
+        "assinatura": "att,\n Paulo Victor\n Desenvolvedor\n Desenvolvimento e Integração de Sistemas - Grupo América\n  +55 62 998504748",
         "smtp": "smtp"
     },
 
     "emai_envio": {
         "destinatarios_email": [
-            ""
+            "rvoliveira@americasaude.com.br"
         ],
         "destinatarios_email_cc": [
-            "",
-            "",
-            "",
-            ""
+            "rcspinheiro@americasaude.com.br",
+            "habferreira@americasaude.com.br",
+            "euripedessilva@saofrancisco.com.br",
+            "ernanimartins@saofrancisco.com.br"
         ],
         "destinatarios_email_cco":[
             
         ],
 
-        "assunto": "",
-        "mensagem": "",
-        "assinatura": "",
+        "assunto": "Dados do banco bot",
+        "mensagem": "Boa tarde, \n Seguem anexados os Csv's processados na data de hoje.  Ótima semana a todos! . \n",
+        "assinatura": "att,\n Paulo Victor\n Desenvolvedor\n Desenvolvimento e Integração de Sistemas - Grupo América\n  +55 62 998504748",
         "smtp": "smtp"
     }
 }

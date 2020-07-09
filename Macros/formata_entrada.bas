@@ -25,8 +25,8 @@ Sub formata_entrada()
                             :=xlByRows, MatchCase:=False, SearchFormat:=False, ReplaceFormat:=False
                     '    Range("AB:AB").Select
                     '    Selection.Delete Shift:=xlToLeft
-                        Columns("AA:AD").Select
-                        Columns("AA:AD").EntireColumn.AutoFit
+                    '    Columns("AA:AD").Select
+                    '    Columns("AA:AD").EntireColumn.AutoFit
                         Range("A1").Select
                         'ChDir "C:\Users\pvmatheus\Desktop"
                         'ActiveWorkbook.SaveAs Filename:="C:\Users\pvmatheus\Desktop\Pasta1.xlsx", _
